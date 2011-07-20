@@ -1,0 +1,16 @@
+JMAL - MyAnimeList API for Java
+===============================
+This an API built specifically for Android for http://myanimelist.net
+This API was built to assuage the pain of the official MyAnimeList API and to make
+the MyAnimeList Client for Android MALO as stable as possible.
+
+Unit Tests:
+===========
+* JUnit Tests are in the unittests folder
+* Please run the unittests!
+
+To run this:
+============
+* Java 1.6 or later
+* Import this project into Eclipse
+* For your specific project in Eclipse, add this project in the build path
